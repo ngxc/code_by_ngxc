@@ -1,0 +1,8 @@
+vlm：项目运行代码和相关的自定义库还有模型，还有前后端代码，如果要重新部署就需要填写main中的api密钥(Authorization)
+下载链接：
+通过网盘分享的文件
+链接: https://pan.baidu.com/s/1naYrABfmWXDfUuhcolZFfg?pwd=wd52 提取码: wd52
+
+训练代码部分数据集：为开源数据集，可以在https://blog.csdn.net/TUSTer_/article/details/134620127  
+https://github.com/linhandev/dataset  https://zhuanlan.zhihu.com/p/714937585
+https://zhuanlan.zhihu.com/p/661132213 里面下载
